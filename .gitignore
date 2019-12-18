@@ -1,0 +1,7 @@
+/src/ghost/*.aws
+/src/ghost/*.eep
+/src/ghost/*.hex
+/src/ghost/*.lst
+/src/ghost/*.map
+/src/ghost/*.obj
+/src/ghost/*.tmp
